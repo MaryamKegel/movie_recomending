@@ -1,5 +1,4 @@
 flask
 pandas
 numpy
-pickle
-sickit-learn
+Sickit-learn
